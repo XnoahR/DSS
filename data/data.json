@@ -1,0 +1,716 @@
+[
+    {
+        "Index": 1,
+        "Kelurahan": "Jajar",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 10,
+        "Resiko": 0.437
+    },
+    {
+        "Index": 2,
+        "Kelurahan": "Purwosari",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 10,
+        "Resiko": 0.956
+    },
+    {
+        "Index": 3,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 12,
+        "Resiko": 0.759
+    },
+    {
+        "Index": 4,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 13,
+        "Resiko": 0.639
+    },
+    {
+        "Index": 5,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 13,
+        "Resiko": 0.240
+    },
+    {
+        "Index": 6,
+        "Kelurahan": "Laweyan",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 13,
+        "Resiko": 0.240
+    },
+    {
+        "Index": 7,
+        "Kelurahan": "Sondakan",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 23,
+        "Resiko": 0.152
+    },
+    {
+        "Index": 8,
+        "Kelurahan": "Penumping",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 13,
+        "Resiko": 0.880
+    },
+    {
+        "Index": 9,
+        "Kelurahan": "Jajar",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 13,
+        "Resiko": 0.641
+    },
+    {
+        "Index": 10,
+        "Kelurahan": "Sondakan",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.737
+    },
+    {
+        "Index": 11,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.119
+    },
+    {
+        "Index": 12,
+        "Kelurahan": "Jajar",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.973
+    },
+    {
+        "Index": 13,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.849
+    },
+    {
+        "Index": 14,
+        "Kelurahan": "Pajang",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.291
+    },
+    {
+        "Index": 15,
+        "Kelurahan": "Jajar",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.264
+    },
+    {
+        "Index": 16,
+        "Kelurahan": "Sriwedari",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.265
+    },
+    {
+        "Index": 17,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.374
+    },
+    {
+        "Index": 18,
+        "Kelurahan": "Jajar",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.572
+    },
+    {
+        "Index": 19,
+        "Kelurahan": "Karangasem",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 31,
+        "Resiko": 0.489
+    },
+    {
+        "Index": 20,
+        "Kelurahan": "Pajang",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.362
+    },
+    {
+        "Index": 21,
+        "Kelurahan": "Jajar",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 32,
+        "Resiko": 0.651
+    },
+    {
+        "Index": 22,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 10,
+        "Resiko": 0.226
+    },
+    {
+        "Index": 23,
+        "Kelurahan": "Jajar",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.363
+    },
+    {
+        "Index": 24,
+        "Kelurahan": "Karangasem",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 22,
+        "Resiko": 0.430
+    },
+    {
+        "Index": 25,
+        "Kelurahan": "Kerten",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 25,
+        "Resiko": 0.511
+    },
+    {
+        "Index": 26,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 13,
+        "Resiko": 0.807
+    },
+    {
+        "Index": 27,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.280
+    },
+    {
+        "Index": 28,
+        "Kelurahan": "Kratonan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.563
+    },
+    {
+        "Index": 29,
+        "Kelurahan": "Tipes",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.633
+    },
+    {
+        "Index": 30,
+        "Kelurahan": "Tipes",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 14,
+        "Resiko": 0.142
+    },
+    {
+        "Index": 31,
+        "Kelurahan": "Tipes",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 15,
+        "Resiko": 0.647
+    },
+    {
+        "Index": 32,
+        "Kelurahan": "Serengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 18,
+        "Resiko": 0.254
+    },
+    {
+        "Index": 33,
+        "Kelurahan": "Kauman",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 13,
+        "Resiko": 0.159
+    },
+    {
+        "Index": 34,
+        "Kelurahan": "Semanggi",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 13,
+        "Resiko": 0.451
+    },
+    {
+        "Index": 35,
+        "Kelurahan": "Semanggi",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 14,
+        "Resiko": 0.728
+    },
+    {
+        "Index": 36,
+        "Kelurahan": "Semanggi",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 15,
+        "Resiko": 0.429
+    },
+    {
+        "Index": 37,
+        "Kelurahan": "Kampung Baru",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 14,
+        "Resiko": 0.222
+    },
+    {
+        "Index": 38,
+        "Kelurahan": "Kampung Baru",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 17,
+        "Resiko": 0.652
+    },
+    {
+        "Index": 39,
+        "Kelurahan": "Kampung Baru",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 18,
+        "Resiko": 0.676
+    },
+    {
+        "Index": 40,
+        "Kelurahan": "Sangkrah",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 18,
+        "Resiko": 0.210
+    },
+    {
+        "Index": 41,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 18,
+        "Resiko": 0.136
+    },
+    {
+        "Index": 42,
+        "Kelurahan": "Gajahan",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 18,
+        "Resiko": 0.749
+    },
+    {
+        "Index": 43,
+        "Kelurahan": "Semanggi",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 18,
+        "Resiko": 0.222
+    },
+    {
+        "Index": 44,
+        "Kelurahan": "Gajahan",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 19,
+        "Resiko": 0.918
+    },
+    {
+        "Index": 45,
+        "Kelurahan": "Kauman",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 24,
+        "Resiko": 0.292
+    },
+    {
+        "Index": 46,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 25,
+        "Resiko": 0.296
+    },
+    {
+        "Index": 47,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 32,
+        "Resiko": 0.888
+    },
+    {
+        "Index": 48,
+        "Kelurahan": "Sangkrah",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.696
+    },
+    {
+        "Index": 49,
+        "Kelurahan": "Kauman",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 14,
+        "Resiko": 0.143
+    },
+    {
+        "Index": 50,
+        "Kelurahan": "Gajahan",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 19,
+        "Resiko": 0.556
+    },
+    {
+        "Index": 51,
+        "Kelurahan": "Kauman",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 21,
+        "Resiko": 0.158
+    },
+    {
+        "Index": 52,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.795
+    },
+    {
+        "Index": 53,
+        "Kelurahan": "Tegalsari",
+        "Kecamatan": "Laweyan",
+        "Kode_Kbli": 24,
+        "Resiko": 0.631
+    },
+    {
+        "Index": 54,
+        "Kelurahan": "Kratonan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 24,
+        "Resiko": 0.871
+    },
+    {
+        "Index": 55,
+        "Kelurahan": "Kauman",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 32,
+        "Resiko": 0.665
+    },
+    {
+        "Index": 56,
+        "Kelurahan": "Gajahan",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.519
+    },
+    {
+        "Index": 57,
+        "Kelurahan": "Sangkrah",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.580
+    },
+    {
+        "Index": 58,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.846
+    },
+    {
+        "Index": 59,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.641
+    },
+    {
+        "Index": 60,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.707
+    },
+    {
+        "Index": 61,
+        "Kelurahan": "Gajahan",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.238
+    },
+    {
+        "Index": 62,
+        "Kelurahan": "Sangkrah",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.302
+    },
+    {
+        "Index": 63,
+        "Kelurahan": "Joyosuran",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.639
+    },
+    {
+        "Index": 64,
+        "Kelurahan": "Gajahan",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.484
+    },
+    {
+        "Index": 65,
+        "Kelurahan": "Semanggi",
+        "Kecamatan": "Pasar Kliwon",
+        "Kode_Kbli": 33,
+        "Resiko": 0.787
+    },
+    {
+        "Index": 66,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.437
+    },
+    {
+        "Index": 67,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.962
+    },
+    {
+        "Index": 68,
+        "Kelurahan": "Kratonan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.738
+    },
+    {
+        "Index": 69,
+        "Kelurahan": "Kratonan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.537
+    },
+    {
+        "Index": 70,
+        "Kelurahan": "Kratonan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.510
+    },
+    {
+        "Index": 71,
+        "Kelurahan": "Kratonan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.799
+    },
+    {
+        "Index": 72,
+        "Kelurahan": "Kratonan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.543
+    },
+    {
+        "Index": 73,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.574
+    },
+    {
+        "Index": 74,
+        "Kelurahan": "Serengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.688
+    },
+    {
+        "Index": 75,
+        "Kelurahan": "Tipes",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.774
+    },
+    {
+        "Index": 76,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.556
+    },
+    {
+        "Index": 77,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.622
+    },
+    {
+        "Index": 78,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.524
+    },
+    {
+        "Index": 79,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.614
+    },
+    {
+        "Index": 80,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.633
+    },
+    {
+        "Index": 81,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.702
+    },
+    {
+        "Index": 82,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.517
+    },
+    {
+        "Index": 83,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.748
+    },
+    {
+        "Index": 84,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.489
+    },
+    {
+        "Index": 85,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.675
+    },
+    {
+        "Index": 86,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.724
+    },
+    {
+        "Index": 87,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.514
+    },
+    {
+        "Index": 88,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.787
+    },
+    {
+        "Index": 89,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.667
+    },
+    {
+        "Index": 90,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.573
+    },
+    {
+        "Index": 91,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.756
+    },
+    {
+        "Index": 92,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.524
+    },
+    {
+        "Index": 93,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.546
+    },
+    {
+        "Index": 94,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.613
+    },
+    {
+        "Index": 95,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.737
+    },
+    {
+        "Index": 96,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.622
+    },
+    {
+        "Index": 97,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.631
+    },
+    {
+        "Index": 98,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.698
+    },
+    {
+        "Index": 99,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.714
+    },
+    {
+        "Index": 100,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.537
+    },
+    {
+        "Index": 101,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.622
+    },
+    {
+        "Index": 102,
+        "Kelurahan": "Jayengan",
+        "Kecamatan": "Serengan",
+        "Kode_Kbli": 33,
+        "Resiko": 0.573
+    }
+]
