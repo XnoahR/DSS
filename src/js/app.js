@@ -17,8 +17,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 function calculateVIKOR(data) {
-    const criteria = ["Resiko", "Jumlah Tenaga Kerja pada Sektor", "Distribusi Listrik PLN", "Jumlah Pelanggan Air"];
-    const weights = [0.25, 0.25, 0.25, 0.25]; // Assuming equal weights for simplicity
+    const criteria = ["Resiko", "Jumlah Tenaga Kerja pada Sektor", "Klaster Industri", "Distribusi Listrik PLN", "Jumlah Pelanggan Air"];
+    const weights = [0.2, 0.2, 0.2, 0.2, 0.2]; // Adjust weights to include the new criterion
     const n = data.length;
     const m = criteria.length;
 
@@ -30,7 +30,7 @@ function calculateVIKOR(data) {
     if (n === 1) {
         // Handle the case where there is only one data point
         const result = [{
-            area: data[0].Kelurahan,
+            area: data[0].Kelurahan + ", " + data[0].Kecamatan,
             score: 1.0
         }];
 
@@ -108,11 +108,10 @@ function calculateVIKOR(data) {
         const R_term = R_diff === 0 ? 0 : (Ri[i] - R_min) / R_diff;
         return 0.5 * S_term + 0.5 * R_term;
     });
-    console.log(data);
-    console.log(Q);
+
     // Step 5: Rank the alternatives
     const results = data.map((row, i) => ({
-        area: row.Kelurahan + ', ' + row.Kecamatan,
+        area: row.Kelurahan + ", " + row.Kecamatan,
         score: Q[i]
     }));
 
